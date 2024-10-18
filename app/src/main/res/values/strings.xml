@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextViewCopy</string>
+    <string name="edit_text">Type here first</string>
+    <string name="button">Press Me!</string>
+    <string name="sendButton">Send This!</string>
+</resources>
